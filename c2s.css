@@ -1,0 +1,159 @@
+
+body{
+    
+ background-image:url(image/fond.jpg);    
+background-repeat: no-repeat;  
+background-size: cover;
+   background-attachment: fixed;
+
+}
+
+
+    
+    
+    
+
+.style2{
+ font-size:20px;   
+color:red;   
+    
+    
+    
+}
+
+
+
+.tst {
+background: white;
+box-sizing: content-box;
+width: 70%;
+box-shadow: 10px 5px 5px grey;
+position: relative;
+top:250px; left: 400px;
+border-radius: 30px;
+
+    font-size:20px;
+padding: 1%;
+
+}
+.tst1 {
+background:white;
+box-sizing: content-box;
+width: 70%;
+box-shadow: 10px 5px 5px grey;
+position: relative;
+top:200px; left: 400px;
+
+border-radius: 30px;
+    font-size:20px;
+padding: 1%;
+
+}
+.mda{float:left;
+padding: 1%;
+    
+    
+}
+
+
+.aer{
+   
+float:right;
+padding: 1%;    
+        
+}
+
+.aer32{   
+  float:left;
+  padding: 1%;  
+  width: 20%;      
+  }
+  
+
+.aer31{
+
+float: right;
+width: 15%;
+
+}
+
+.aer33{
+
+  float: right;
+  width: 30%;
+  
+  }
+.aer21{
+     
+float:right;
+padding: 10%;    
+          
+    
+    
+}
+
+
+.aer2{   
+float:left;
+padding: 1%;        
+}
+
+
+
+
+.tst3 {
+background:white;
+box-sizing: content-box;
+width: 70%;
+box-shadow: 10px 5px 5px grey;
+position: relative;
+top:300px; left: 400px;
+
+border-radius: 30px;
+    font-size:20px;
+padding: 1%;
+
+}
+
+
+.link {
+    
+position: fixed;
+top:300px;
+
+color: aliceblue
+}
+
+
+.img{
+float:right;
+    padding: 1%;
+  width: 11%;  
+    
+} 
+.img2{
+    position: relative;
+float:right;
+    padding: 1%;
+  width: 20%;  
+    
+}
+
+.img3{
+  position: relative;
+float:right;
+  padding: 0.4%;
+width: 20%;  
+  
+}
+
+
+
+.band{
+  background:#f0f0f0;
+box-sizing: content-box;
+width: ;
+box-shadow: 10px 5px 5px grey; 
+color:grey;
+          
+}

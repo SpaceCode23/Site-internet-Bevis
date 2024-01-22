@@ -1,0 +1,73 @@
+
+.tit{
+font-size: 81px;
+color: aliceblue;
+position: absolute;
+left: 640px; top: 30px;
+padding: 10px;
+}
+
+
+
+
+.Logo{
+width: 7%;
+position: fixed;
+left: 75px;
+background-color: transparent; 
+border-color: transparent;    
+}
+.Logo:hover{
+ background-color: transparent; 
+border-color: transparent;     
+box-shadow: none;       
+}
+
+    
+    
+
+
+
+
+button{
+width: 100%;
+background-color: white;    
+font-size: 20px;
+border-radius: 10px;
+border-color: aliceblue;
+
+padding: 10px; 
+width: 200px;
+ cursor: pointer;
+-webkit-transition: all 0.5s;
+-moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+ 
+}
+
+
+button:hover{
+width: 100%;
+background-color: #99f6f6;    
+font-size: 20px;
+border-radius: 10px;
+box-shadow: 10px 5px 2px white;    
+ padding: 10px; 
+width: 200px;
+ cursor: pointer;
+-webkit-transition: all 0.5s;
+-moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+
+
+}    
+    
+    
+a{
+text-decoration: none;
+color:black;
+    
+}
+ 
